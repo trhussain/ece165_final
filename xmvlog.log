@@ -1,0 +1,19 @@
+xmvlog: *W,DLNOHV: Unable to find an 'hdl.var' file to load in.
+TOOL:	xmvlog(64)	20.09-s021: Started on May 26, 2025 at 12:25:01 PDT
+xmvlog
+    -work __nclib
+    -view module
+    -logfile xmvlog.log
+    -cdslib /tmp/ihdl_cdslibb8024_28024
+    -messages
+    -nostdout
+    -nocopyright
+    -ESCAPEDNAME
+    /home/linux/ieng6/ee165sp25/ee165sp25ai/Lab4_flow/innovus/adder.pnr.v
+
+file: /home/linux/ieng6/ee165sp25/ee165sp25ai/Lab4_flow/innovus/adder.pnr.v
+	module __nclib.adder:module
+		errors: 0, warnings: 0
+	Total errors/warnings found outside modules and primitives:
+		errors: 0, warnings: 1
+TOOL:	xmvlog(64)	20.09-s021: Exiting on May 26, 2025 at 12:25:01 PDT  (total: 00:00:00)

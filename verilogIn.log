@@ -1,0 +1,18 @@
+@(#)$CDS: ihdl version 6.1.8-64b 03/17/2022 11:56 (cpgsrv11) $  Mon May 26 12:25:01 2025
+
+INFO (VERILOGIN-589): Using xmvlog binary for compilation.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module CLKBUFX6. Therefore using library
+gsclib045, cell CLKBUFX6, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module DFFQXL. Therefore using library
+gsclib045, cell DFFQXL, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module NOR2BX1. Therefore using library
+gsclib045, cell NOR2BX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module ADDFX1. Therefore using library
+gsclib045, cell ADDFX1, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module AOI2BB1XL. Therefore using library
+gsclib045, cell AOI2BB1XL, and view symbol as the symbol.
+INFO (VERILOGIN-126): Unable to find the Verilog definition for module AND2X1. Therefore using library
+gsclib045, cell AND2X1, and view symbol as the symbol.
+INFO (VERILOGIN-357): Checked in symbol adder.
+INFO (VERILOGIN-412): Checked-in connect by name schematic adder.
+INFO (VERILOGIN-206): End of Logfile.

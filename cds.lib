@@ -1,0 +1,24 @@
+# File Created by Patrick Mercier at Wed Mar 30 17:47:36 2022
+# assisted by CdsLibEditor
+# Base gpdk045 library definition file	
+
+DEFINE analogLib $CDSHOME/tools/dfII/etc/cdslib/artist/analogLib
+DEFINE basic $CDSHOME/tools/dfII/etc/cdslib/basic
+DEFINE US_8ths $CDSHOME/tools/dfII/etc/cdslib/sheets/US_8ths
+DEFINE cdsDefTechLib $CDSHOME/tools/dfII/etc/cdsDefTechLib
+DEFINE ahdlLib $CDSHOME/tools/dfII/samples/artist
+
+DEFINE gpdk045 /software/ECE/Cadence-gpdk045/gpdk045_v_6_0/gpdk045
+
+######## User's library and settings after this. 
+
+DEFINE gsclib045_tech /software/ECE/Cadence-gpdk045/lan/flow/t1u1/reference_libs/GPDK045/gsclib045_all_v4.4/gsclib045_tech/oa22/gsclib045_tech
+DEFINE gsclib045 /software/ECE/Cadence-gpdk045/lan/flow/t1u1/reference_libs/GPDK045/gsclib045_all_v4.4/gsclib045/oa22/gsclib045
+DEFINE gsclib045_hvt /software/ECE/Cadence-gpdk045/lan/flow/t1u1/reference_libs/GPDK045/gsclib045_all_v4.4/gsclib045_hvt/oa22/gsclib045_hvt
+DEFINE gsclib045_lvt /software/ECE/Cadence-gpdk045/lan/flow/t1u1/reference_libs/GPDK045/gsclib045_all_v4.4/gsclib045_lvt/oa22/gsclib045_lvt
+DEFINE gsclib045_backbias /software/ECE/Cadence-gpdk045/lan/flow/t1u1/reference_libs/GPDK045/gsclib045_all_v4.4/gsclib045_backbias/oa22/gsclib045_backbias
+
+DEFINE Lab4_adder_tb /home/linux/ieng6/ee165sp25/ee165sp25ai/Lab4_adder_tb
+
+#Removed by ddDeleteObj: DEFINE brent_krung_fp /home/linux/ieng6/ee165sp25/ee165sp25ai/final_project/brent_krung_fp
+DEFINE brent_kung_fp /home/linux/ieng6/ee165sp25/ee165sp25ai/final_project/brent_kung_fp
